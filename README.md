@@ -23,3 +23,7 @@ Tveir salir
 annarsvegar bar og restaurant
 og hins vegar danssalur og tónleikarími.
 
+Owners:
+Snæbjörn Helgi Arnarsson Jack,
+Styrkár Blær Styrmisson,
+Torfi Þorgrímsson
