@@ -1,29 +1,8 @@
-# GRU_H-pur_13
+# Pink Panther Underground
+Hópur 13.
+Skemmtistaður á Lækjargötu 2 þar sem að ungar hljómsveitir fá að spila live alla daga vikunnar.
+Hljómsveitir skrá sig í gegnum heimasíðu skemmtistaðarins og ummsjónarmenn staðarins sjá hverjir hafa sráð sig í gegnum c# viðmótið. Þaðan athuga þeir hvaða tímasettningar eru lausar og gefa hljómsveitunum pláss og tíma eftir hvað er í boði. Hægt era ð nálgast Dagsskrá allra uppkomandi tónleika á vefnum.
 
-Viðburða types:
-
--Pub Quiz
--Comedy night
--Þriðjublús
--Off-venue tónleikar fyriri tónlistarhátíð
-
-2 vikur.
-vika 1: normal
-vika 2: tónlistarhátíð
-
-Pink Pussycat Club
-
-er með stæðsta cocktail menu á landinu.
-
-kynæsandi stemmning
-
-góð staðsetning á Lækjargöru 2.
-
-Tveir salir 
-annarsvegar bar og restaurant
-og hins vegar danssalur og tónleikarími.
-
-Owners:
-Snæbjörn Helgi Arnarsson Jack,
-Styrkár Blær Styrmisson,
-Torfi Þorgrímsson
+Torfi þarf að hann gagnagrunn með töflunum ‘dagsskrá’ og ‘submitted_hljómsveitir’ og fleirri ef þess þarf síðan þarf hann og Snæbjörn að ræða hvaða PHP functions binda gagnagrunnin við vefsíðuna.
+Styrkár þarf að hanna viðmót sem gerir það auðvelt að horfa yfir skráðar hljómsveitir og núverandi dagsskrá. Þar á líka að vera hægt að festa skráðar hljómsveitir við ákveðna dagsettningu og tímasettningu. 
+Snæbjörn þarf að hanna vefsíðuna og hafa hana responsive. Einnig þarf hann að notast við javascript til að gera vefsíðuna skilvirka og fallega. Vinnur með Torfa í að tengja hana við gagnagrunnin í gegnum php. 
