@@ -31,7 +31,6 @@ CREATE TABLE IF NOT EXISTS `program` (
   `bandName` varchar(35) DEFAULT NULL,
   `gigTime` datetime DEFAULT NULL,
   `gigDate` date DEFAULT NULL,
-  `description` varchar(300) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
