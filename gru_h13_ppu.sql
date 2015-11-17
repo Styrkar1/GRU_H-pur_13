@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS `program` (
   `id` int(11) NOT NULL,
   `bandName` varchar(35) DEFAULT NULL,
   `gigTime` datetime DEFAULT NULL,
-  `gigDate` date DEFAULT NULL,
+  `gigDate` date DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
